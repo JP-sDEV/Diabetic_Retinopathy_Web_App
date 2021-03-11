@@ -4,9 +4,9 @@
 
 This web app predicts the severity of diabetic retinopathy given an image taken via Nonmydriatic digital retinal photography.
 
-![Classification Demo Page](demo_imgs/classification_demo.PNG) 
-![Dataset Demo Page](demo_imgs/dataset_demo.PNG) 
-![About Demo Page](demo_imgs/about_demo.PNG) 
+![Classification Demo Page](demo_imgs/classification_demo.png) 
+![Dataset Demo Page](demo_imgs/dataset_demo.png) 
+![About Demo Page](demo_imgs/about_demo.png) 
 
 Details relating to the model - how it was built, technologies used to built the model, etc., can be found in my [notebook](https://github.com/JP-sDEV/Diabetic-Retinopathy-Classification)
 
